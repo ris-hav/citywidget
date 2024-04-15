@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/citywidget/static/css/main.767ed512.css",
+    "main.js": "/citywidget/static/js/main.c1af2ae6.js",
+    "index.html": "/citywidget/index.html",
+    "main.767ed512.css.map": "/citywidget/static/css/main.767ed512.css.map",
+    "main.c1af2ae6.js.map": "/citywidget/static/js/main.c1af2ae6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767ed512.css",
+    "static/js/main.c1af2ae6.js"
+  ]
+}
